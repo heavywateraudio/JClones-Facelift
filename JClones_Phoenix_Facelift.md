@@ -36,6 +36,7 @@ The sound is the original [JClones Phoenix](JClones_Phoenix.md) DSP by JClones.
 **[Download JClones_Phoenix_Facelift.jsfx](https://github.com/heavywateraudio/JClones-Facelift/releases/download/phoenix-facelift-v1.0/JClones_Phoenix_Facelift.jsfx)**
 
 It's one file with everything inside.
+[View the code](https://github.com/heavywateraudio/JClones-Facelift/blob/master/jsfx/JClones_Phoenix_Facelift.jsfx) on GitHub.
 
 ## Install
 
