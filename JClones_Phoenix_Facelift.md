@@ -8,6 +8,7 @@ This version is a second face, built in Facelift, with extra controls and keyboa
 The sound is the original [JClones Phoenix](JClones_Phoenix.md) DSP by JClones.
 
 ![JClones Phoenix Facelift](assets/screenshots/JClones_Phoenix_Facelift.png)
+
 *JClones Phoenix with its Facelift face in REAPER.*
 
 ## What the new GUI adds
