@@ -1,6 +1,12 @@
 # “JClones” JSFX Plugins
 Free [JSFX](https://www.reaper.fm/sdk/js/) clones of popular audio plugins (without UI (yet)) to use in [Reaper](https://www.reaper.fm/).
 
+## Facelift versions
+JClones plugins with a new GUI, made in [Facelift](https://github.com/heavywateraudio/facelift-jsfx).
+The sound is the original JClones DSP. Only the face is new.
+
+- [Phoenix Facelift](JClones_Phoenix_Facelift.md): tape saturation.
+
 ## Installation
 If you have the [ReaPack Extension](https://reapack.com/) installed, you can add the repository to Reaper with this URL:
 
