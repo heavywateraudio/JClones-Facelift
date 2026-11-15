@@ -34,7 +34,7 @@ The sound is the original [JClones Phoenix](JClones_Phoenix.md) DSP by JClones.
 
 ## Download
 
-**[Download JClones_Phoenix_Facelift.jsfx](https://github.com/heavywateraudio/JClones-Facelift/releases/download/phoenix-facelift-v1.0/JClones_Phoenix_Facelift.jsfx)**
+**[Download JClones_Phoenix_Facelift.jsfx](https://github.com/heavywateraudio/JClones-Facelift/releases/download/phoenix-facelift-v1.0.1/JClones_Phoenix_Facelift.jsfx)**
 
 It's one file with everything inside.
 [View the code](https://github.com/heavywateraudio/JClones-Facelift/blob/master/jsfx/JClones_Phoenix_Facelift.jsfx) on GitHub.
@@ -61,5 +61,5 @@ See [JClones Phoenix](JClones_Phoenix.md) for what each control does.
 ## Credits
 
 - DSP: [JClones](https://github.com/JClones/JSFXClones), v1.1.0, MIT License.
-- GUI: Andy Rx (heavywateraudio), v1.0, MIT License.
+- GUI: Andy Rx (heavywateraudio), v1.0.1, MIT License.
 - See [LICENSE](LICENSE) and [NOTICE](NOTICE).

@@ -41,7 +41,7 @@ The sound is the original [JClones CA2A](JClones_CA2A.md) DSP by JClones.
 
 ## Download
 
-**[Download JClones_CA2A_Facelift.jsfx](https://github.com/heavywateraudio/JClones-Facelift/releases/download/ca2a-facelift-v1.0/JClones_CA2A_Facelift.jsfx)**
+**[Download JClones_CA2A_Facelift.jsfx](https://github.com/heavywateraudio/JClones-Facelift/releases/download/ca2a-facelift-v1.0.1/JClones_CA2A_Facelift.jsfx)**
 
 It's one file with everything inside.
 [View the code](https://github.com/heavywateraudio/JClones-Facelift/blob/master/jsfx/JClones_CA2A_Facelift.jsfx) on GitHub.
@@ -73,5 +73,5 @@ See [JClones CA2A](JClones_CA2A.md) for what each control does.
 ## Credits
 
 - DSP: [JClones](https://github.com/JClones/JSFXClones), v1.1.0, MIT License.
-- GUI: Andy Rx (heavywateraudio), v1.0, MIT License.
+- GUI: Andy Rx (heavywateraudio), v1.0.1, MIT License.
 - See [LICENSE](LICENSE) and [NOTICE](NOTICE).
