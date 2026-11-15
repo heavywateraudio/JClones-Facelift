@@ -33,7 +33,7 @@ slider1:50<0,100,0.1>Peak Reduction
 slider2:40<0,100,0.1>Gain
 slider3:0<0,1,1{Compress,Limit}>Mode
 slider4:50<0,100,0.1>R37
-slider5:1<0,1,1{Classic,Fast}>Opto Cell
+slider5:0<0,1,1{Classic,Fast}>Opto Cell
 
 @init
 
