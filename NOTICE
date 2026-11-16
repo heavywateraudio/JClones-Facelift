@@ -31,3 +31,10 @@ for ensuring their use of this software complies with applicable patent laws.
 
 By using this software, you acknowledge that you have read and understood
 this disclaimer.
+
+FACELIFT FILES:
+
+The *_Facelift.jsfx files also contain code made by Facelift, by Andy Rx
+(Heavy Water Audio). That code is under the Facelift License, not MIT:
+https://github.com/heavywateraudio
+The DSP in those files stays MIT (JClones). The GUI design is MIT (Andy Rx).
