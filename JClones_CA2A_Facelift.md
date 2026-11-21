@@ -17,7 +17,8 @@ The sound is the original [JClones CA2A](JClones_CA2A.md) DSP by JClones.
 - Peak Reduction, Makeup Gain and R37 knobs, each with a label and a number box.
 - Mode button (COMPRESS / LIMIT) and Opto Cell button (CLASSIC / FAST), each with a label.
 - The Opto Cell button is green on CLASSIC and red on FAST.
-- IN and OUT meters with labels, number boxes, a -18 mark and an overload light.
+- IN and OUT meters with labels, number boxes and a -18 mark.
+- IN and OUT LEDs that light red at 0 dB or above.
 - GR meter with a label, a number box and marks at -3, -6 and -10. Its bar is amber and turns white at -9.5.
 - Dry Gain knob with a label and a number box.
 - POWER button with a label.
@@ -61,6 +62,7 @@ These are added:
 - Dry Gain: mixes the dry signal back in.
 - Bypass: the POWER button turns the effect on and off.
 - IN, OUT and GR meters, each with a number box.
+- IN and OUT LEDs that light red at 0 dB or above.
 
 One default is changed:
 
