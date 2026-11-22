@@ -62,6 +62,12 @@ Three controls move in bigger steps, so knobs and keys feel right:
 Everything else is the original, including the control names.
 See [JClones Phoenix](JClones_Phoenix.md) for what each control does.
 
+## Original look
+
+![Original JClones Phoenix](assets/screenshots/JClones_Phoenix_Original.png)
+
+*Original JClones_Phoenix jsfx face.*
+
 ## Credits
 
 - DSP: [JClones](https://github.com/JClones/JSFXClones), v1.1.0, MIT License.

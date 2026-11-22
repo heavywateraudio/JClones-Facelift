@@ -17,19 +17,19 @@ The sound is the original [JClones L2](JClones_L2.md) DSP by JClones.
 
 ## What the new GUI adds
 
-- A dark face with black knobs.
-- Threshold and Ceiling knobs, each with a label and a number box.
 - Link button: moves Threshold and Ceiling together.
 - Attenuation meter with a number box. It shows how much the limiter is turning the level down.
 - Two input lights: green for signal below 0 dB, red at 0 dB or above.
-- Release knob with its six times, from 0.01 to 1000 ms.
-- ARC button for Auto Release. While ARC is on, the Release knob is locked.
-- BIT buttons: 16, 18, 20, 22 and 24.
-- DITH buttons: Off, Type1 and Type2.
-- Noise Shaping buttons: None, Modr, Norm and Ultra.
 - Dry Gain knob with a label and a number box.
 - BYPASS button that fades smoothly, with no click.
+- Keyboard keys for Threshold, Auto Release, Dry Gain and BYPASS.
 - `-` `+` `\` keys to scale the whole window.
+
+The original controls are all still here, with a new look:
+
+- Threshold, Ceiling and Release are knobs.
+- Auto Release is the ARC button. While it is on, the Release knob is locked.
+- Quantize, Dither and Shaping are buttons, labeled BIT, DITH and Noise Shaping.
 
 ## Keyboard keys
 
@@ -70,6 +70,12 @@ These are added:
 The stock sliders are hidden, because the new face shows every control.
 Everything else is the original, including the control names, steps and defaults.
 See [JClones L2](JClones_L2.md) for what each control does.
+
+## Original look
+
+![Original JClones L2](assets/screenshots/JClones_L2_Original.png)
+
+*Original JClones_L2 jsfx face.*
 
 ## Credits
 

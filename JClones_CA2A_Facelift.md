@@ -76,6 +76,12 @@ The stock sliders are hidden, because the new face shows every control.
 Everything else is the original, including the control names and steps.
 See [JClones CA2A](JClones_CA2A.md) for what each control does.
 
+## Original look
+
+![Original JClones CA2A](assets/screenshots/JClones_CA2A_Original.png)
+
+*Original JClones_CA2A jsfx face.*
+
 ## Credits
 
 - DSP: [JClones](https://github.com/JClones/JSFXClones), v1.1.0, MIT License.
