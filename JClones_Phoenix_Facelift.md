@@ -7,13 +7,15 @@ JClones recently gave Phoenix its own GUI.
 This version is a second face, built in Facelift, with extra controls and keyboard keys.
 The sound is the original [JClones Phoenix](JClones_Phoenix.md) DSP by JClones.
 
+*JClones Phoenix with its Facelift face in REAPER.*<br>
 ![JClones Phoenix Facelift](assets/screenshots/JClones_Phoenix_Facelift.png)
 
-*JClones Phoenix with its Facelift face in REAPER.*
+<br>
 
+*Bypassed: the face dims and the button turns yellow.*<br>
 ![JClones Phoenix Facelift bypassed](assets/screenshots/JClones_Phoenix_Facelift_Bypassed.png)
 
-*Bypassed: the face dims and the button turns yellow.*
+<br>
 
 ## What the new GUI adds
 
@@ -64,9 +66,10 @@ See [JClones Phoenix](JClones_Phoenix.md) for what each control does.
 
 ## Original look
 
+*Original JClones_Phoenix jsfx face.*<br>
 ![Original JClones Phoenix](assets/screenshots/JClones_Phoenix_Original.png)
 
-*Original JClones_Phoenix jsfx face.*
+<br>
 
 ## Credits
 

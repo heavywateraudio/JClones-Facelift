@@ -7,13 +7,15 @@ The original JClones CA2A has no GUI, only REAPER's stock sliders.
 This version gives it a face, built in Facelift, with meters, extra controls and keyboard keys.
 The sound is the original [JClones CA2A](JClones_CA2A.md) DSP by JClones.
 
+*JClones CA2A with its Facelift face in REAPER.*<br>
 ![JClones CA2A Facelift](assets/screenshots/JClones_CA2A_Facelift.png)
 
-*JClones CA2A with its Facelift face in REAPER.*
+<br>
 
+*Bypassed: the face dims and the POWER button turns yellow.*<br>
 ![JClones CA2A Facelift bypassed](assets/screenshots/JClones_CA2A_Facelift_Bypassed.png)
 
-*Bypassed: the face dims and the POWER button turns yellow.*
+<br>
 
 ## What the new GUI adds
 
@@ -78,9 +80,10 @@ See [JClones CA2A](JClones_CA2A.md) for what each control does.
 
 ## Original look
 
+*Original JClones_CA2A jsfx face.*<br>
 ![Original JClones CA2A](assets/screenshots/JClones_CA2A_Original.png)
 
-*Original JClones_CA2A jsfx face.*
+<br>
 
 ## Credits
 
