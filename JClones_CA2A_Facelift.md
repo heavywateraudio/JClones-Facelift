@@ -11,6 +11,10 @@ The sound is the original [JClones CA2A](JClones_CA2A.md) DSP by JClones.
 
 *JClones CA2A with its Facelift face in REAPER.*
 
+![JClones CA2A Facelift bypassed](assets/screenshots/JClones_CA2A_Facelift_Bypassed.png)
+
+*Bypassed: the face dims and the POWER button turns yellow.*
+
 ## What the new GUI adds
 
 - A gray rack face with black knobs and a red name label.
@@ -42,7 +46,7 @@ The sound is the original [JClones CA2A](JClones_CA2A.md) DSP by JClones.
 
 ## Download
 
-**[Download JClones_CA2A_Facelift.jsfx](https://github.com/heavywateraudio/JClones-Facelift/releases/download/ca2a-facelift-v1.0.1/JClones_CA2A_Facelift.jsfx)**
+**[Download JClones_CA2A_Facelift.jsfx](https://github.com/heavywateraudio/JClones-Facelift/releases/download/ca2a-facelift-v1.0.2/JClones_CA2A_Facelift.jsfx)**
 
 It's one file with everything inside.
 [View the code](https://github.com/heavywateraudio/JClones-Facelift/blob/master/jsfx/JClones_CA2A_Facelift.jsfx) on GitHub.
@@ -75,5 +79,5 @@ See [JClones CA2A](JClones_CA2A.md) for what each control does.
 ## Credits
 
 - DSP: [JClones](https://github.com/JClones/JSFXClones), v1.1.0, MIT License.
-- GUI: Andy Rx (heavywateraudio), v1.0.1, MIT License.
+- GUI: Andy Rx (heavywateraudio), v1.0.2, MIT License.
 - See [LICENSE](LICENSE) and [NOTICE](NOTICE).

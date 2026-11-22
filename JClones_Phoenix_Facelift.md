@@ -11,6 +11,10 @@ The sound is the original [JClones Phoenix](JClones_Phoenix.md) DSP by JClones.
 
 *JClones Phoenix with its Facelift face in REAPER.*
 
+![JClones Phoenix Facelift bypassed](assets/screenshots/JClones_Phoenix_Facelift_Bypassed.png)
+
+*Bypassed: the face dims and the button turns yellow.*
+
 ## What the new GUI adds
 
 - Bypass button with a label.
@@ -34,7 +38,7 @@ The sound is the original [JClones Phoenix](JClones_Phoenix.md) DSP by JClones.
 
 ## Download
 
-**[Download JClones_Phoenix_Facelift.jsfx](https://github.com/heavywateraudio/JClones-Facelift/releases/download/phoenix-facelift-v1.0.1/JClones_Phoenix_Facelift.jsfx)**
+**[Download JClones_Phoenix_Facelift.jsfx](https://github.com/heavywateraudio/JClones-Facelift/releases/download/phoenix-facelift-v1.0.2/JClones_Phoenix_Facelift.jsfx)**
 
 It's one file with everything inside.
 [View the code](https://github.com/heavywateraudio/JClones-Facelift/blob/master/jsfx/JClones_Phoenix_Facelift.jsfx) on GitHub.
@@ -61,5 +65,5 @@ See [JClones Phoenix](JClones_Phoenix.md) for what each control does.
 ## Credits
 
 - DSP: [JClones](https://github.com/JClones/JSFXClones), v1.1.0, MIT License.
-- GUI: Andy Rx (heavywateraudio), v1.0.1, MIT License.
+- GUI: Andy Rx (heavywateraudio), v1.0.2, MIT License.
 - See [LICENSE](LICENSE) and [NOTICE](NOTICE).

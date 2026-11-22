@@ -7,6 +7,7 @@ The sound is the original JClones DSP. Only the face is new.
 
 - [Phoenix Facelift](JClones_Phoenix_Facelift.md): tape saturation.
 - [CA2A Facelift](JClones_CA2A_Facelift.md): leveling compressor.
+- [L2 Facelift](JClones_L2_Facelift.md): brickwall limiter.
 
 ## Installation
 If you have the [ReaPack Extension](https://reapack.com/) installed, you can add the repository to Reaper with this URL:
